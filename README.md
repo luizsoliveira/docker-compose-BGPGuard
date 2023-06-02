@@ -2,7 +2,7 @@
 
 #### Just a docker-compose structure for BGPGuard ([https://github.com/zhida-li/BGPGuard](https://github.com/zhida-li/BGPGuard))
 
-##### **Please follow the following instructions:**
+##### **Please follow the instructions:**
 
 1. Install Docker
      Follow instructions available: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
