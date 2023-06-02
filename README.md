@@ -1,6 +1,6 @@
 # docker-compose-BGPGuard
 
-#### Just a docker-compose strcture for BGPGuard
+#### Just a docker-compose structure for BGPGuard ([https://github.com/zhida-li/BGPGuard](https://github.com/zhida-li/BGPGuard))
 
 ##### **Please follow the following instructions:**
 
