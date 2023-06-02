@@ -1,7 +1,11 @@
-**Please follow the following instructions:**
+# docker-compose-BGPGuard
+
+#### Just a docker-compose strcture for BGPGuard
+
+##### **Please follow the following instructions:**
 
 1. Install Docker
-     Follow instructionsavailablee: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+     Follow instructions available: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 
 2. Clone this repository
 ```
@@ -10,7 +14,7 @@
 
 3. Inside the app folder, clone the BGPGuard repository
 ```
-     cd docker-compose-BGPGuard/app
+    cd docker-compose-BGPGuard/app
     git clone https://github.com/zhida-li/BGPGuard
     cd ..
 ```
@@ -18,5 +22,5 @@
 ```
 docker-compose up
 ```
-5. Open your browser at the following URL: `http://localhost:5000`
+5. Open your browser at the following URL: [http://localhost:5000](http://localhost:5000)
 6. Have fun and good research!
