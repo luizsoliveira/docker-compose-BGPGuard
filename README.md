@@ -4,8 +4,7 @@
 
 ##### **Please follow the instructions:**
 
-1. Install Docker
-     Follow instructions available: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+1. Install Docker, instructions available: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 
 2. Clone this repository
 ```
