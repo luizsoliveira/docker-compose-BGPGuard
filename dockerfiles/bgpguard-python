@@ -1,0 +1,5 @@
+FROM python:3.9
+RUN mkdir /usr/src/app
+WORKDIR /usr/src/app
+COPY ../app/BGPGuard/requirements.txt /tmp/requirements.txt
+RUN pip install -r /tmp/requirements.txt
