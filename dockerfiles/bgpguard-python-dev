@@ -1,0 +1,5 @@
+FROM docker-compose-bgpguard_bgpguard-python
+#Copying files from the HOST folder to inside CONTAINER
+#Using the COPY command here, developers need to remember to run
+# `docker-compose build` command all times that the source code was being changed
+COPY ../app/BGPGuard /usr/src/app

@@ -3,9 +3,7 @@ services:
   bgpguard-python:
     build:
       context: ./
-      dockerfile: dockerfiles/bgpguard-python
-    volumes: 
-      - ./app/BGPGuard/:/usr/src/app
+      dockerfile: dockerfiles/bgpguard-python-dev
     stdin_open: true
     ports:
       - 5000:5000
