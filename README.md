@@ -14,7 +14,7 @@
 
 3. Clone the BGPGuard repository into the **app** folder
 ```
-    git clone https://github.com/zhida-li/BGPGuard app/
+    git clone https://github.com/zhida-li/BGPGuard app/BGPGuard
 ```
 4. Inside the **main docker-compose project** folder, start docker-compose using the following command:
 ```
